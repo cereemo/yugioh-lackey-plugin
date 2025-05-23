@@ -1,0 +1,51 @@
+<packdefinitions version="1.0">
+
+<pack>
+	<packtitle>Battle Pack: Epic Dawn</packtitle>
+	<packimage>bp01</packimage>
+	<packformat>TCG</packformat>
+	<packkind>Booster</packkind>
+	<packcommoncrit><field>Set</field><eval>IS</eval><data>BP01</data></packcommoncrit>
+	<packdoubles>yes</packdoubles>
+	<chance>
+		<prob>64</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>R</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>D</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>H</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>L</data></crit></kind>
+		<kind><qty>1</qty></kind>
+	</chance>
+	<chance>
+		<prob>15</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>N</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>D</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>H</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>L</data></crit></kind>
+		<kind><qty>1</qty></kind>
+	</chance>
+	<chance>
+		<prob>12</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>S</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>D</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>H</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>L</data></crit></kind>
+		<kind><qty>1</qty></kind>
+	</chance>
+	<chance>
+		<prob>7</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>U</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>D</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>H</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>L</data></crit></kind>
+		<kind><qty>1</qty></kind>
+	</chance>
+	<chance>
+		<prob>2</prob>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>X</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>D</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>H</data></crit></kind>
+		<kind><qty>1</qty><crit><field>Rarity</field><eval>IS</eval><data>L</data></crit></kind>
+		<kind><qty>1</qty></kind>
+	</chance>
+</pack>
+</packdefinitions>

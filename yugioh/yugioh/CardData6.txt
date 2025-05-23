@@ -1,0 +1,8 @@
+Name	Set	ImageFile	Type	Attribute	Level	ATK	DEF	Rarity	Format	Text
+Cyber Dragon (Alt)	ALT	CyberDragon-Alt	Machine/Effect	Light	5	2100	1600			If your opponent controls a monster and you control no monsters, you can Special Summon this card (from your hand).
+Cyber End Dragon (Alt)	ALT	CyberEndDragon-Alt	Machine/Fusion/Effect	Light	10	4000	2800			"Cyber Dragon" + "Cyber Dragon" + "Cyber Dragon". A Fusion Summon of this card can only be done with the above Fusion Material Monsters. If this card attacks a Defense Position monster, inflict piercing Battle Damage to your opponent.
+Elemental HERO Avian (Alt)	ALT	ElementalHEROAvian-Alt1	Warrior	Wind	3	1000	1000			A winged Elemental HERO who wheels through the sky and manipulates the wind. His signature move, Featherbreak, gives villainy a blow from sky-high.
+Elemental HERO Burstinatrix (Alt)	ALT	ElementalHEROBurstinatrix-Alt1	Warrior	Fire	3	1200	800			A flame manipulator who was the first Elemental HERO woman. Her Burstfire burns away villainy.
+Elemental HERO Sparkman (Alt)	ALT	ElementalHEROSparkman-Alt1	Warrior	Light	4	1600	1400			An Elemental HERO and a warrior of light who proficiently wields many kinds of armaments. His Static Shockwave cuts off the path of villainy.
+Foolish Burial (J)	ALT	FoolishBurial-Alt	Normal Spell						A1/T1	Send 1 Monster Card from your Deck to the Graveyard.
+Monster Reborn (J)	ALT	MonsterReborn-Alt	Normal Spell						A1/T1	Special Summon 1 monster from either player's Graveyard to your side of the field.

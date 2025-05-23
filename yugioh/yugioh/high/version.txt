@@ -1,0 +1,8 @@
+<version>
+
+<lastupdateYYMMDD>130814</lastupdateYYMMDD>
+<quality>high</quality>
+<versionurl>http://www.lackeyccg.com/yugioh/high/version.txt</versionurl>
+<updateurl>http://www.lackeyccg.com/yugioh/high/updatelist.txt</updateurl>
+
+</version>
