@@ -1,0 +1,18 @@
+yugioh	08-14-13
+plugins/yugioh/plugininfo.txt	http://www.lackeyccg.com/yugioh/plugininfo.txt	367341
+plugins/yugioh/defaultchat.txt	http://www.lackeyccg.com/yugioh/defaultchat.txt	12905
+plugins/yugioh/formats.txt	http://www.lackeyccg.com/yugioh/formats.txt	307676
+plugins/yugioh/version.txt	http://www.lackeyccg.com/yugioh/high/version.txt	22258
+plugins/yugioh/packs/packdefinitions1.xml	http://www.lackeyccg.com/yugioh/packs/packdefinitions1.xml	208914
+plugins/yugioh/packs/bp01.jpg	http://www.lackeyccg.com/yugioh/packs/bp01.jpg	97781
+plugins/yugioh/sets/setimages/general/cardback.jpg	http://www.lackeyccg.com/yugioh/high/cardback.jpg	-45223
+plugins/yugioh/sets/setimages/general/spawned.jpg	http://www.lackeyccg.com/yugioh/high/spawned.jpg	-54677
+plugins/yugioh/sets/CardData1.txt	http://www.lackeyccg.com/yugioh/CardData1.txt	22641253
+plugins/yugioh/sets/CardData2.txt	http://www.lackeyccg.com/yugioh/CardData2.txt	26613050
+plugins/yugioh/sets/CardData3.txt	http://www.lackeyccg.com/yugioh/CardData3.txt	20790923
+plugins/yugioh/sets/CardData4.txt	http://www.lackeyccg.com/yugioh/CardData4.txt	32644019
+plugins/yugioh/sets/CardData5.txt	http://www.lackeyccg.com/yugioh/CardData5.txt	30996858
+plugins/yugioh/sets/CardData6.txt	http://www.lackeyccg.com/yugioh/CardData6.txt	128225
+plugins/yugioh/sets/CardDataOCG.txt	http://www.lackeyccg.com/yugioh/CardDataOCG.txt	4244580
+CardGeneralURLs:
+http://www.lackeyccg.com/yugioh/high/
