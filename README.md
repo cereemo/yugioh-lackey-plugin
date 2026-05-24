@@ -2,6 +2,8 @@
 
 This is a modern fork of the original [Yu-Gi-Oh! plugin for LackeyCCG](https://lackeyccg.com/yugioh/) that was last updated in 2013.
 
+For tips and tricks on how to help the development of this plugin, refer to the [contributor's guide](CONTRIBUTING.md).
+
 Installation:
 
 - Online (recommended):
